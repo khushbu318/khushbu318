@@ -6,13 +6,13 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/khushbu-kushvaha/" target="_blank">
+  <a href="https://www.linkedin.com/in/khushbu-kushvaha/" target="_blank" rel="noopener">
     <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" height="35" alt="linkedin logo"  />
   </a>
-  <a href="khushbu.kushvaha.work@gmail.com" target="_blank">
+  <a href="mailto:khushbu.kushvaha.work@gmail.com">
     <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://khushbu318.github.io/Khushbu-Kushvaha/" target="_blank">
+  <a href="https://khushbu318.github.io/Khushbu-Kushvaha/" target="_blank" rel="noopener">
     <img src="https://img.icons8.com/?size=100&id=XhDBVc7IBFl9&format=png&color=000000" height="35" alt="gmail logo"  />
   </a>
 </div>
@@ -65,7 +65,6 @@
   - AI won’t take your job… but someone who knows AI just might 😄🤖<br>
   - 🛠️ Currently working on real-world projects — most of my commits go into code for the company I’m employed at 💼💻, so GitHub graph may not reflect actual activity 😄
 </h3>
-<hr>
 
 ###
 
