@@ -1,21 +1,118 @@
-# 💫 About Me:
-## 👋 Hi there! I'm Khushbu Kushvaha (K²)<br><br>🔭 I’m currently working on:  <br>  Building engaging and intelligent applications using AI, automation, and modern web technologies. I'm especially focused on integrating AI into real-world tools and workflows that make life easier and smarter.<br><br>👯 I’m looking to collaborate on:  <br>  Open-source projects related to AI, developer tools, or productivity-enhancing apps. I enjoy working on thoughtfully designed projects that create meaningful impact.<br><br>🤝 I’m looking for help with:<br>Growing into a confident and capable AI Engineer. I'm passionate about building intelligent agents that enhance human potential and simplify everyday life.<br><br>- 🌱 I’m currently learning:  <br>  - Advanced Python  <br>  - AI/ML model deployment and fine-tuning  <br>  - Cloud-native development (especially with Azure and AWS)  <br>  - Agentic frameworks and autonomous systems<br><br>- 💬 Ask me about:  <br>  - Agentic frameworks  <br>  - LLMs and vector embeddings  <br>  - Retrieval-Augmented Generation (RAG) and fine-tuning techniques<br><br>- 😄 Fun facts:  <br>  - I believe in lifelong learning and sharing knowledge with the community  <br>  - AI won’t take your job… but someone who knows AI just might 😄
+<div align="center">
+  <img height=250px width="250px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejR2MWM5cncwcWo1NzA0Z2VwN28wOTJ6bGN4ejd0ZWJ3N2l1M2YyZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tczJoRU7XwBS8/giphy.gif"  />
+  <img height=250px width="250px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3h6djZqN2xzeWM0aWV4azVqMW52NDEyMnNlMDF2YWtydHZwZWJzaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hr216HOgDKL0dri3cD/giphy.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/khushbu-kushvaha/" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="khushbu.kushvaha.work@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://khushbu318.github.io/Khushbu-Kushvaha/" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=XhDBVc7IBFl9&format=png&color=000000" height="35" alt="gmail logo"  />
+  </a>
+</div>
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khushbu-kushvaha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khushbu.kushvaha.work@gmail.com) 
+###
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=khushbu318&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=khushbu318&theme=calm_pink&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=khushbu318&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h1 align="left">👋 Hi there! I'm Khushbu Kushvaha (K²)</h1>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=khushbu318&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+###
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<h4 style="font-size:20px" align="left">🔭 I’m currently working on</h4>
+<h3 align="left">
+  Building engaging and intelligent applications using AI, automation, and modern web technologies. I'm especially focused on integrating AI into real-world tools and workflows that make life easier and smarter.
+</h3>
+<hr>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h3 align="left">👯 I’m looking to collaborate on:</h3>
+<h3 align="left">
+  Open-source projects related to AI, developer tools, or productivity-enhancing apps. I enjoy working on thoughtfully designed projects that create meaningful impact.
+</h3>
+<hr>
+
+<h3 align="left">🤝 I’m looking for help with:</h3>
+<h3 align="left">
+  Growing into a confident and capable AI Engineer. I'm passionate about building intelligent agents that enhance human potential and simplify everyday life.
+</h3>
+<hr>
+
+<h3 align="left">🌱 I’m currently learning:</h3>
+<h3 align="left">
+  - Advanced Python<br>
+  - AI/ML model deployment and fine-tuning<br>
+  - Cloud-native development (especially with Azure and AWS)<br>
+  - Agentic frameworks and autonomous systems
+</h3>
+<hr>
+
+<h3 align="left">💬 Ask me about:</h3>
+<h3 align="left">
+  - Agentic frameworks<br>
+  - LLMs and vector embeddings<br>
+  - Retrieval-Augmented Generation (RAG) and fine-tuning techniques
+</h3>
+<hr>
+
+<h3 align="left">😄 Fun facts:</h3>
+<h3 align="left">
+  - I believe in lifelong learning and sharing knowledge with the community 📚✨<br>
+  - AI won’t take your job… but someone who knows AI just might 😄🤖<br>
+  - 🛠️ Currently working on real-world projects — most of my commits go into code for the company I’m employed at 💼💻, so GitHub graph may not reflect actual activity 😄
+</h3>
+<hr>
+
+###
+
+<h1 align="left">💻 Tech Stack</h1>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=wPohyHO_qO1a&format=png&color=000000" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
+  <img src="https://img.icons8.com/?size=100&id=Rffi8qeb2fK5&format=png&color=000000" height="40" alt="streamlit logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000" height="40" alt="pandas logo"  />
+  <img src="https://khushbu318.github.io/Khushbu-Kushvaha/Icons/Bedrock.png" height="40" alt="Bedrock logo"  />
+  <img src="https://khushbu318.github.io/Khushbu-Kushvaha/Icons/Matplotlib.png" height="40" alt="matplotlib logo"  />
+ <img style="background-color: white;border-radius:25px" src="https://khushbu318.github.io/Khushbu-Kushvaha/Icons/LangChain.png" height="40" alt="langchain logo"  />
+  <img src="https://devblogs.microsoft.com/semantic-kernel/wp-content/uploads/sites/78/2024/03/Large_SK_Logo-300x300.png" height="40" alt="semantic kernel logo"  />
+
+</div>
+
+###
+
+<h1 align="left">📊 GitHub Stats</h1>
+
+###
+
+<div align="left">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=khushbu318&theme=dark&hide_border=false" height="220" alt="streak graph"  />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushbu318&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="180" alt="streak graph"  />
+</div>
+<div align="left">
+  <h1>✍️ Random Dev Quote </h1>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"  />
+</div>
+
